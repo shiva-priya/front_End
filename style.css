@@ -1,0 +1,65 @@
+body {
+    margin: 0%;
+    background-image: linear-gradient(rgba(94, 89, 69, 0.938), rgba(35, 48, 42, 0.856));
+    padding-left: 7%;
+    display: inline-block;
+    
+}
+
+
+.image
+{
+    padding: 0.1%;
+    border: 4px solid #200202;
+    float: right;
+    width: 100%;
+   
+   
+}
+
+.image:hover
+{
+    box-shadow: 0 0 8px 4px rgb(209, 11, 77);
+  
+}
+
+.imgDiv
+{
+    width: 35%;
+    float: right;
+    
+}
+
+.tdiv
+{
+    width: 100%;
+}
+
+
+h5
+{
+    font-size: medium;
+}
+
+
+.main
+{
+    background: linear-gradient(rgba(251, 253, 223, 0.938), rgba(23, 15, 29, 0.3));
+    border-radius: 50px;
+    border: 5px solid black;
+    padding: 30px;
+    margin: 2%;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform .2s; 
+ 
+}
+
+
+.main:hover
+{
+    box-shadow: 0 0 8px 6px rgb(187, 255, 0);
+    transform: scale(1.1);
+}
+
+

@@ -1,0 +1,11 @@
+{
+  "name": "testing_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeReq.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
